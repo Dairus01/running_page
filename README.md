@@ -258,6 +258,15 @@ Available MapCN styles:
 
 **No access token required! ** 🎉
 
+## Attribution
+
+When using MapCN (Carto Basemaps), please ensure you comply with their attribution requirements:
+
+- Map tiles: © [CARTO](https://carto.com/)
+- Map data: © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors
+
+The project template already includes appropriate attribution in the map display.
+
 Using Other Providers
 If you prefer Mapbox, MapTiler, or Stadia Maps, you can change the vendor:
 

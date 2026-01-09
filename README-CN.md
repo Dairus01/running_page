@@ -266,6 +266,15 @@ MapCN 是免费的地图服务提供商，现在是默认选项，无需配置�
 
 **无需访问令牌！** 🎉
 
+## 版权归属
+
+当使用 MapCN (Carto Basemaps) 时，请确保遵守其版权归属要求：
+
+- 地图瓦片: © [CARTO](https://carto.com/)
+- 地图数据: © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors
+
+本项目模板已在地图显示中包含了相应的版权声明。
+
 使用其他提供商
 如果你更喜欢 Mapbox、MapTiler 或 Stadia Maps，你可以更改供应商：
 

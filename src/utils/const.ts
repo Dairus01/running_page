@@ -251,6 +251,16 @@ export const MAP_TILE_STYLES = {
     'dark-matter':
       'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json',
   },
+  // Alternative free tile providers for regions where Carto may be blocked
+  mapcn_openfreemap: {
+    'osm-bright': 'https://tiles.openfreemap.org/styles/bright',
+    'dark-matter': 'https://tiles.openfreemap.org/styles/dark',
+  },
+  mapcn_maptiler_free: {
+    // Use MapTiler's free tier with explicit free styles
+    'osm-bright': 'https://api.maptiler.com/maps/basic/style.json?key=',
+    'dark-matter': 'https://api.maptiler.com/maps/basic-dark/style.json?key=',
+  },
   maptiler: {
     'dataviz-light': 'https://api.maptiler.com/maps/dataviz/style.json?key=',
     'dataviz-dark':
